@@ -1,0 +1,112 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA_lite/20.1
+vlab2_g7_p1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1683224832
+!i10b 1
+!s100 ?B55`TEh_=W1[=mSon<OA0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ib``K=mS9Ua]]FYU=cUh0U1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z3 dD:/quartus_projects/lab2
+w1683222907
+8D:/quartus_projects/lab2/lab2_g7_p1.sv
+FD:/quartus_projects/lab2/lab2_g7_p1.sv
+!i122 49
+L0 3 15
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1683224832.000000
+!s107 D:/quartus_projects/lab2/lab2_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab2/lab2_g7_p1.sv|
+!i113 1
+Z5 o-work work -sv
+Z6 tCvgOpt 0
+vlab2_g7_p2
+R0
+Z7 !s110 1683224833
+!i10b 1
+!s100 `UW?f]j=06SGZkkBc=E[l3
+R1
+I<X5]PN75R5R6ZKgEzo6AP0
+R2
+S1
+R3
+w1683217889
+8D:/quartus_projects/lab2/lab2_g7_p2.sv
+FD:/quartus_projects/lab2/lab2_g7_p2.sv
+!i122 50
+L0 3 13
+R4
+r1
+!s85 0
+31
+Z8 !s108 1683224833.000000
+!s107 D:/quartus_projects/lab2/lab2_g7_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab2/lab2_g7_p2.sv|
+!i113 1
+R5
+R6
+vtb_lab2_g7_p1
+R0
+!s110 1683226043
+!i10b 1
+!s100 N<ldFikFV9[d<2h8Ngoc30
+R1
+I1<o>lCKQdRn1KbUP5EhIE2
+R2
+S1
+R3
+w1683222352
+8D:/quartus_projects/lab2/tb_lab2_g7_p1.sv
+FD:/quartus_projects/lab2/tb_lab2_g7_p1.sv
+!i122 53
+L0 2 28
+R4
+r1
+!s85 0
+31
+!s108 1683226043.000000
+!s107 D:/quartus_projects/lab2/tb_lab2_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab2/tb_lab2_g7_p1.sv|
+!i113 1
+R5
+R6
+vtb_lab2_g7_p2
+R0
+R7
+!i10b 1
+!s100 kSTdUP@cnV]4TJa7cO@GT2
+R1
+IgZO>YjNO8U3IR6ECn4BH02
+R2
+S1
+R3
+w1683217911
+8D:/quartus_projects/lab2/tb_lab2_g7_p2.sv
+FD:/quartus_projects/lab2/tb_lab2_g7_p2.sv
+!i122 52
+L0 2 26
+R4
+r1
+!s85 0
+31
+R8
+!s107 D:/quartus_projects/lab2/tb_lab2_g7_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab2/tb_lab2_g7_p2.sv|
+!i113 1
+R5
+R6

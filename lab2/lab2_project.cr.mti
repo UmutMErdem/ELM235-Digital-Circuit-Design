@@ -1,0 +1,29 @@
+D:/quartus_projects/lab2/lab2_g7_p2.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab2/lab2_g7_p2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab2_g7_p2
+
+Top level modules:
+	lab2_g7_p2
+
+} {} {}} D:/quartus_projects/lab2/tb_lab2_g7_p1.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab2/tb_lab2_g7_p1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab2_g7_p1
+
+Top level modules:
+	tb_lab2_g7_p1
+
+} {} {}} D:/quartus_projects/lab2/tb_lab2_g7_p2.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab2/tb_lab2_g7_p2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab2_g7_p2
+
+Top level modules:
+	tb_lab2_g7_p2
+
+} {} {}} D:/quartus_projects/lab2/lab2_g7_p1.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab2/lab2_g7_p1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab2_g7_p1
+
+Top level modules:
+	lab2_g7_p1
+
+} {} {}}

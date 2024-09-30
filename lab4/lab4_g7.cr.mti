@@ -1,0 +1,46 @@
+D:/quartus_projects/lab4/tb_lab4_g7_p1.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab4/tb_lab4_g7_p1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab4_g7_p1
+
+Top level modules:
+	tb_lab4_g7_p1
+
+} {} {}} D:/quartus_projects/lab4/lab4_g7_p2.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab4/lab4_g7_p2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab4_g7_p2
+-- Compiling module ripple_carry_adder
+-- Compiling module full_adder
+-- Compiling module half_adder
+
+Top level modules:
+	lab4_g7_p2
+
+} {} {}} D:/quartus_projects/lab4/tb_lab4_g7_p2.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab4/tb_lab4_g7_p2.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab4_g7_p2
+
+Top level modules:
+	tb_lab4_g7_p2
+
+} {} {}} D:/quartus_projects/lab4/lab4_g7_p3.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab4/lab4_g7_p3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab4_g7_p3
+
+Top level modules:
+	lab4_g7_p3
+
+} {} {}} D:/quartus_projects/lab4/tb_lab4_g7_p3.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab4/tb_lab4_g7_p3.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_lab4_g7_p3
+
+Top level modules:
+	tb_lab4_g7_p3
+
+} {} {}} D:/quartus_projects/lab4/lab4_g7_p1.sv {1 {vlog -work work -sv -stats=none D:/quartus_projects/lab4/lab4_g7_p1.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lab4_g7_p1
+
+Top level modules:
+	lab4_g7_p1
+
+} {} {}}

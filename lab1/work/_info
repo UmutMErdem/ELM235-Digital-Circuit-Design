@@ -1,0 +1,162 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/intelFPGA_lite/20.1
+vlab1_g7_p1
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1682681557
+!i10b 1
+!s100 AcGIdgccM9_3]@=ZM9ezc3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I2BVf@n>VlAEb[Ai2MI:V91
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1681930408
+8D:/intelFPGA_lite/20.1/lab1_g7_p1.sv
+FD:/intelFPGA_lite/20.1/lab1_g7_p1.sv
+!i122 50
+Z4 L0 1 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1682681557.000000
+!s107 D:/intelFPGA_lite/20.1/lab1_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/intelFPGA_lite/20.1/lab1_g7_p1.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vlab1_g7_p2
+R1
+Z9 !s110 1682681558
+!i10b 1
+!s100 j4YGM@=?Zi^4A;gUeG`:11
+R2
+Ifij[6V`eklSPMk2@c<c9L1
+R3
+S1
+R0
+w1682610807
+8D:/intelFPGA_lite/20.1/lab1_g7_p2.sv
+FD:/intelFPGA_lite/20.1/lab1_g7_p2.sv
+!i122 52
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1682681558.000000
+!s107 D:/intelFPGA_lite/20.1/lab1_g7_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/intelFPGA_lite/20.1/lab1_g7_p2.sv|
+!i113 1
+R7
+R8
+vlab1_g7_p3
+R1
+!s110 1682681559
+!i10b 1
+!s100 IGA44iAe4DCEzn;NG;dOe2
+R2
+IGFEebHeRMNkKgUUSefVBl3
+R3
+S1
+R0
+w1681939886
+8D:/intelFPGA_lite/20.1/lab1_g7_p3.sv
+FD:/intelFPGA_lite/20.1/lab1_g7_p3.sv
+!i122 54
+L0 1 9
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/intelFPGA_lite/20.1/lab1_g7_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/intelFPGA_lite/20.1/lab1_g7_p3.sv|
+!i113 1
+R7
+R8
+vtb_lab1_g7_p1
+R1
+R9
+!i10b 1
+!s100 3^=9zd95;Fb^i6mFX6NY`1
+R2
+I2M``n<:dlH5RL2R;@l9LW3
+R3
+S1
+R0
+w1682615845
+8D:/intelFPGA_lite/20.1/tb_lab1_g7_p1.sv
+FD:/intelFPGA_lite/20.1/tb_lab1_g7_p1.sv
+!i122 51
+Z11 L0 1 27
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/intelFPGA_lite/20.1/tb_lab1_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/intelFPGA_lite/20.1/tb_lab1_g7_p1.sv|
+!i113 1
+R7
+R8
+vtb_lab1_g7_p2
+R1
+R9
+!i10b 1
+!s100 4DldZNnL9]okfGABG^DRg2
+R2
+IPg_ic8H9Z5?_5c9BIEIag2
+R3
+S1
+R0
+w1682615889
+8D:/intelFPGA_lite/20.1/tb_lab1_g7_p2.sv
+FD:/intelFPGA_lite/20.1/tb_lab1_g7_p2.sv
+!i122 53
+R11
+R5
+r1
+!s85 0
+31
+R10
+!s107 D:/intelFPGA_lite/20.1/tb_lab1_g7_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/intelFPGA_lite/20.1/tb_lab1_g7_p2.sv|
+!i113 1
+R7
+R8
+vtb_lab1_g7_p3
+R1
+!s110 1682883240
+!i10b 1
+!s100 nfLfNl@m@5HWd3dl8lb=V1
+R2
+IAQoR_UN76lhnADfLRk:P=2
+R3
+S1
+R0
+w1682875012
+8D:/intelFPGA_lite/20.1/tb_lab1_g7_p3.sv
+FD:/intelFPGA_lite/20.1/tb_lab1_g7_p3.sv
+!i122 56
+R11
+R5
+r1
+!s85 0
+31
+!s108 1682883238.000000
+!s107 D:/intelFPGA_lite/20.1/tb_lab1_g7_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/intelFPGA_lite/20.1/tb_lab1_g7_p3.sv|
+!i113 1
+R7
+R8

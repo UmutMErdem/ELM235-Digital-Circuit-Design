@@ -1,0 +1,161 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/quartus_projects/lab4
+vlab5_g7_p1
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1685642046
+!i10b 1
+!s100 USPVhPGEZZ4j>AddXXbci1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IUD_AhDKdN_6XZ85=<_DLo2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dD:/quartus_projects/lab5
+Z5 w1685642039
+Z6 8D:/quartus_projects/lab5/lab5_g7_p2.sv
+Z7 FD:/quartus_projects/lab5/lab5_g7_p2.sv
+!i122 119
+L0 25 20
+Z8 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z9 !s108 1685642046.000000
+Z10 !s107 D:/quartus_projects/lab5/lab5_g7_p2.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab5/lab5_g7_p2.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vlab5_g7_p2
+R0
+R1
+!i10b 1
+!s100 Whd46U9jK^m=_c^:R^38S1
+R2
+IPWPTHT7d2WXHZMXMlJ@:?2
+R3
+S1
+R4
+R5
+R6
+R7
+!i122 119
+Z14 L0 2 22
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+vlab5_g7_p3
+R0
+!s110 1685621108
+!i10b 1
+!s100 <Kzk11Ue^79Job_?[Lc_M1
+R2
+IKe<;YG0o]VQ7>X7e;FMX<1
+R3
+S1
+R4
+w1685613022
+8D:/quartus_projects/lab5/lab5_g7_p3.sv
+FD:/quartus_projects/lab5/lab5_g7_p3.sv
+!i122 62
+L0 3 20
+R8
+r1
+!s85 0
+31
+!s108 1685621108.000000
+!s107 D:/quartus_projects/lab5/lab5_g7_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab5/lab5_g7_p3.sv|
+!i113 1
+R12
+R13
+vtb_lab5_g7_p1
+R0
+!s110 1685628038
+!i10b 1
+!s100 ?fbg8Jde:W@3M;20C=clB2
+R2
+IV0:MZVXNeBh`EYoZ1PcD80
+R3
+S1
+R4
+w1685627991
+8D:/quartus_projects/lab5/tb_lab5_g7_p1.sv
+FD:/quartus_projects/lab5/tb_lab5_g7_p1.sv
+!i122 73
+R14
+R8
+r1
+!s85 0
+31
+!s108 1685628038.000000
+!s107 D:/quartus_projects/lab5/tb_lab5_g7_p1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab5/tb_lab5_g7_p1.sv|
+!i113 1
+R12
+R13
+vtb_lab5_g7_p2
+R0
+!s110 1685643655
+!i10b 1
+!s100 ]ADfUKXGI9ZazfkSRWzJS0
+R2
+I7eB=SA0SUE2I7iBe7aGD;1
+R3
+S1
+R4
+w1685641623
+8D:/quartus_projects/lab5/tb_lab5_g7_p2.sv
+FD:/quartus_projects/lab5/tb_lab5_g7_p2.sv
+!i122 121
+L0 2 23
+R8
+r1
+!s85 0
+31
+!s108 1685643655.000000
+!s107 D:/quartus_projects/lab5/tb_lab5_g7_p2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab5/tb_lab5_g7_p2.sv|
+!i113 1
+R12
+R13
+vtb_lab5_g7_p3
+R0
+!s110 1685643743
+!i10b 1
+!s100 AczIZL3mARk@OgCm<7beE3
+R2
+IGWSm4W^T3Uj?T4LU=:9D20
+R3
+S1
+R4
+w1685642507
+8D:/quartus_projects/lab5/tb_lab5_g7_p3.sv
+FD:/quartus_projects/lab5/tb_lab5_g7_p3.sv
+!i122 122
+L0 2 17
+R8
+r1
+!s85 0
+31
+!s108 1685643743.000000
+!s107 D:/quartus_projects/lab5/tb_lab5_g7_p3.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/quartus_projects/lab5/tb_lab5_g7_p3.sv|
+!i113 1
+R12
+R13

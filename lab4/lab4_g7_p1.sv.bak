@@ -1,0 +1,13 @@
+`timescale 1ns/1ps
+module lab4_g7_p1(
+	input logic clk, d,
+	output logic q_latch, q_ff_rise, q_ff_fall
+);
+	always_ff @(posedge clk) // rising edge
+		q_ff_rise <= d;
+	always_ff @(negedge clk) // falling edge
+		q_ff_fall <= d;
+	always_latch
+		if(clk) q_latch<=d;
+	
+endmodule

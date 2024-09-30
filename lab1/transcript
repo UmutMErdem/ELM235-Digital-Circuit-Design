@@ -1,0 +1,349 @@
+# Reading pref.tcl
+# Loading project lab5_p1
+# reading D:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project pattern_det
+# Compile of pattern_det.sv was successful.
+# Compile of pattern_det.sv failed with 1 errors.
+# Compile of pattern_det.sv failed with 11 errors.
+# Compile of pattern_det.sv failed with 1 errors.
+# Compile of pattern_det.sv failed with 1 errors.
+# Compile of pattern_det.sv failed with 1 errors.
+# Compile of pattern_det.sv failed with 1 errors.
+# Compile of pattern_det.sv was successful.
+# Compile of pattern_det.sv was successful.
+# Compile of pattern_det.sv failed with 1 errors.
+# Compile of pattern_det.sv was successful.
+# Compile of pattern_det.sv was successful.
+# Compile of tb_pattern_det.sv failed with 3 errors.
+# Compile of tb_pattern_det.sv failed with 3 errors.
+# Compile of tb_pattern_det.sv failed with 3 errors.
+# Compile of tb_pattern_det.sv failed with 3 errors.
+# Compile of tb_pattern_det.sv failed with 1 errors.
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# vsim work.tb_pattern_det 
+# Start time: 21:12:31 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(6)
+#    Time: 2 ps  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 6
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:14:14 on Jun 03,2023, Elapsed time: 0:01:43
+# Errors: 0, Warnings: 24
+# vsim work.tb_pattern_det 
+# Start time: 21:14:14 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(6)
+#    Time: 2 ps  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 6
+run -all
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(6)
+#    Time: 4 ps  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 6
+# Compile of pattern_det.sv failed with 2 errors.
+# Compile of tb_pattern_det.sv failed with 2 errors.
+# 2 compiles, 2 failed with 4 errors.
+# Compile of pattern_det.sv was successful.
+# Compile of tb_pattern_det.sv failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of tb_pattern_det.sv failed with 1 errors.
+# Compile of tb_pattern_det.sv failed with 2 errors.
+# Compile of tb_pattern_det.sv failed with 1 errors.
+# Compile of tb_pattern_det.sv was successful.
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:19:16 on Jun 03,2023, Elapsed time: 0:05:02
+# Errors: 0, Warnings: 8
+# vsim work.tb_pattern_det 
+# Start time: 21:19:16 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(14)
+#    Time: 60 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 14
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:21:10 on Jun 03,2023, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:21:10 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(14)
+#    Time: 20 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 14
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:23:56 on Jun 03,2023, Elapsed time: 0:02:46
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:23:56 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(15)
+#    Time: 21 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 15
+# Compile of pattern_det.sv was successful.
+# Compile of tb_pattern_det.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_pattern_det
+# End time: 21:25:54 on Jun 03,2023, Elapsed time: 0:01:58
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:25:54 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+# ** Error: (vsim-3043) Unresolved reference to 'display'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_pattern_det/dut File: D:/Elektronik2.2/ELM234/ODEV3/pattern_det.sv Line: 27
+# Error loading design
+# End time: 21:25:55 on Jun 03,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# vsim work.tb_pattern_det 
+# Start time: 21:26:21 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx, nextstate:00000
+# state:00000, nextstate:00000
+# state:00000, nextstate:00001
+# state:00001, nextstate:00001
+# state:00001, nextstate:00010
+# state:00001, nextstate:00001
+# state:00010, nextstate:00011
+# state:00011, nextstate:00100
+# state:00011, nextstate:00010
+# state:00100, nextstate:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(14)
+#    Time: 11 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 14
+# Compile of pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:27:51 on Jun 03,2023, Elapsed time: 0:01:30
+# Errors: 0, Warnings: 3
+# vsim work.tb_pattern_det 
+# Start time: 21:27:51 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx, nextstate:00000 S5:00101
+# state:00000, nextstate:00000 S5:00101
+# state:00000, nextstate:00001 S5:00101
+# state:00001, nextstate:00001 S5:00101
+# state:00001, nextstate:00010 S5:00101
+# state:00001, nextstate:00001 S5:00101
+# state:00010, nextstate:00011 S5:00101
+# state:00011, nextstate:00100 S5:00101
+# state:00011, nextstate:00010 S5:00101
+# state:00100, nextstate:00101 S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(14)
+#    Time: 11 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 14
+# Compile of pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:37:43 on Jun 03,2023, Elapsed time: 0:09:52
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:37:43 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx, nextstate:00000 S5:00101
+# state:00000, nextstate:00000 S5:00101
+# state:00000, nextstate:00001 S5:00101
+# state:00001, nextstate:00001 S5:00101
+# state:00001, nextstate:00010 S5:00101
+# state:00001, nextstate:00001 S5:00101
+# state:00010, nextstate:00011 S5:00101
+# state:00011, nextstate:00100 S5:00101
+# state:00011, nextstate:00010 S5:00101
+# state:00100, nextstate:00101 S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(14)
+#    Time: 11 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 14
+# Compile of pattern_det.sv was successful.
+# Compile of tb_pattern_det.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_pattern_det
+# End time: 21:40:07 on Jun 03,2023, Elapsed time: 0:02:24
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:40:08 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00010 	nextstate:00000	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00100 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(14)
+#    Time: 11 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 14
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:43:39 on Jun 03,2023, Elapsed time: 0:03:31
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:43:39 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00010 	nextstate:00000	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00100 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00010 	nextstate:00000	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00100 	nextstate:00001	  S5:00101
+# state:00100 	nextstate:00101	  S5:00101
+# state:00101 	nextstate:00000	  S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(16)
+#    Time: 19 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 16
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:45:47 on Jun 03,2023, Elapsed time: 0:02:08
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:45:47 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00100 	nextstate:00001	  S5:00101
+# state:00100 	nextstate:00101	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00011 	nextstate:00010	  S5:00101
+# state:00100 	nextstate:00101	  S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(16)
+#    Time: 19 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 16
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:51:43 on Jun 03,2023, Elapsed time: 0:05:56
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:51:43 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx 	nextstate:00000	  S5:00101
+# state:xxxxx 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00001	  S5:00101
+# state:00000 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00010 	nextstate:00000	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00100 	nextstate:00001	  S5:00101
+# state:00100 	nextstate:00101	  S5:00101
+# state:00101 	nextstate:00000	  S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(15)
+#    Time: 18 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 15
+# Compile of tb_pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 21:55:22 on Jun 03,2023, Elapsed time: 0:03:39
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 21:55:22 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# state:xxxxx 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00000	  S5:00101
+# state:00000 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00100 	nextstate:00001	  S5:00101
+# state:00100 	nextstate:00101	  S5:00101
+# state:00001 	nextstate:00010	  S5:00101
+# state:00001 	nextstate:00001	  S5:00101
+# state:00010 	nextstate:00011	  S5:00101
+# state:00011 	nextstate:00100	  S5:00101
+# state:00011 	nextstate:00010	  S5:00101
+# state:00100 	nextstate:00101	  S5:00101
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(16)
+#    Time: 19 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 16
+# Compile of pattern_det.sv was successful.
+vsim work.tb_pattern_det
+# End time: 23:53:43 on Jun 03,2023, Elapsed time: 1:58:21
+# Errors: 0, Warnings: 2
+# vsim work.tb_pattern_det 
+# Start time: 23:53:44 on Jun 03,2023
+# Loading sv_std.std
+# Loading work.tb_pattern_det
+# Loading work.pattern_det
+add wave -position insertpoint sim:/tb_pattern_det/*
+run -all
+# ** Note: $stop    : D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv(16)
+#    Time: 19 ns  Iteration: 0  Instance: /tb_pattern_det
+# Break in Module tb_pattern_det at D:/Elektronik2.2/ELM234/ODEV3/tb_pattern_det.sv line 16
+# End time: 23:54:07 on Jun 03,2023, Elapsed time: 0:00:23
+# Errors: 0, Warnings: 1

@@ -1,0 +1,10 @@
+Wed May 10 12:13:57 AST 2023
+Trace back: bad option "mark": must be bbox, cget, configure, delete, get, icursor, index, insert, scan, selection, validate, or xview
+    while executing
+"$win mark set insert 0.0"
+    (procedure "Transcript::CmdCompletionSelect" line 57)
+    invoked from within
+"Transcript::CmdCompletionSelect .rc.trans 1"
+    (command bound to event)
+  <2:D:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/tk8.6/bgerror.tcl:106: ::tkerror {bad option "mark": must be bbox, cget, configure, delete, get, icursor, index, insert, scan, selection, validate, or xview}
+  <1:eval:1: ::tk::dialog::error::bgerror {bad option "mark": must be bbox, cget, configure, delete, get, icursor, index, insert, scan, selection, validate, or xview}

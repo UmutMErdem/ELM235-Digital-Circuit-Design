@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Q1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Q1[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Q2[15]",
+					"strict" : false
+				},
+				{
+					"name" : "F1",
+					"strict" : false
+				},
+				{
+					"name" : "F2",
+					"strict" : false
+				},
+				{
+					"name" : "I[1]",
+					"strict" : false
+				},
+				{
+					"name" : "I[2]",
+					"strict" : false
+				},
+				{
+					"name" : "I[0]",
+					"strict" : false
+				},
+				{
+					"name" : "I[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
