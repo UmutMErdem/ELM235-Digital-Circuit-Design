@@ -1,5 +1,5 @@
 # ELM235-Digital-Circuit-Design
-These are projects I developed in the digital circuit design lecture.
+These are the projects I developed using Quartus Prime and Modelsim in the digital circuit design course.
 
 ## Features
 - Basic logic circuit design with Boolean algebra
